@@ -1,0 +1,27 @@
+1. **Introduction:**
+   - Acknowledges the challenges of the first computer build.
+   - Introduces two systems: closed (case) and open (case).
+   - Future PC build episodes will use the open case for hands-on demonstrations.
+
+2. **Closed System:**
+   - Components:
+      - **GPU (Graphics Processing Unit):** Enables high-end gaming.
+      - **RAM (Random Access Memory):** Temporarily stores data for the CPU.
+      - **CPU (Central Processing Unit):** Liquid-cooled high-performance processor.
+
+3. **Open System:**
+   - Components:
+      - **CPU:** Air-cooled processor relying on airflow for cooling.
+      - **RAM:** Older green RAM sticks for basic usage.
+   - Emphasizes the importance of practicing safety procedures before handling hardware.
+
+4. **Back Panel Connectors - Closed System:**
+   - Mini-DIN (P.S.2) port, USB ports, Type-C USB, HDMI, DVI, Wi-Fi antenna connectors, more USB ports, and audio connectors.
+   - Introduces the IO Shield, specific to the motherboard.
+
+5. **Back Panel Connectors - Open System:**
+   - Mini-DIN (P.S.2) port, USB ports, VGA, DVI, USB-C, HDMI, Ethernet (RJ45), more USB ports, audio ports.
+   - Discusses the significance of colored USB ports and showcases additional GPU ports.
+
+6. **Expansion Options - Open System:**
+   - Demonstrates an additional USB hub expansion card for more ports.
